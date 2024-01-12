@@ -56,7 +56,6 @@ let startTimer = () => {
 
 let stopTimer = () =>{
     clearInterval(startCount)
-    clearInterval(startCount)
 }
 
 
