@@ -1,0 +1,30 @@
+[
+  {
+    "name": "Tom",
+    "age": 12,
+    "gender": "male",
+    "animal": true,
+    "photo": "https://i.pinimg.com/originals/78/3f/13/783f1396a50a46367d0680228e95f0d5.png"
+  },
+  {
+    "name": "Jerry",
+    "age": 8,
+    "gender": "male",
+    "animal": true,
+    "photo": "https://i.pinimg.com/originals/03/a4/d5/03a4d55748dfefa852df76b085708c0a.png"
+  },
+  {
+    "name": "Doggy",
+    "age": 15,
+    "gender": "male",
+    "animal": true,
+    "photo": "https://upload.wikimedia.org/wikipedia/en/e/e4/Spike_and_Tyke_%28characters%29.png"
+  },
+  {
+    "name": "Miss Vavoom",
+    "age": 25,
+    "gender": "female",
+    "animal": false,
+    "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPDqtjctNge4jkuhivRsaReok_A82k-sPg6QaJl9KGpUim15Hly9yR_9rQZFR49Lj9NuE&usqp=CAU"
+  }
+]

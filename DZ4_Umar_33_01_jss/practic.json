@@ -1,0 +1,14 @@
+[
+  {
+    "companyName":"Apple",
+    "revenue": "$365,82 млрд"
+  },
+  {
+    "companyName":"Samsung",
+    "revenue": "234,08 млрд"
+  },
+  {
+    "companyName":"Microsoft",
+    "revenue": "$168,09 млрд "
+  }
+]

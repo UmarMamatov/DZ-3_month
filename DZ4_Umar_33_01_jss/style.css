@@ -1,0 +1,22 @@
+.wrapper{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 15px;
+}
+.personCard{
+    width: 200px;
+    padding: 20px;
+    border: 1px solid;
+    text-align: center;
+}
+.userPhoto img{
+    border-radius: 50%;
+    box-shadow: 0px 5px 15px 0px rgba(0, 0, 0, 0.25);
+    width: 100px;
+    height: 100px;
+    border: 1px solid;
+    object-fit: contain;
+}
+span{
+    font-weight: bold;
+}
